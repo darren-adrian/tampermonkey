@@ -1,16 +1,4 @@
-// ==UserScript==
-// @name         GCWebMessenger
-// @namespace    http://tampermonkey.net/
-// @version      1.4
-// @description  Matt McPhee Demo Script
-// @author       matt.mcphee@genesys.com
-// @match        http*://*/*
-// @grant        none
-// @require      https://code.jquery.com/jquery-latest.js
-//
-// @downloadURL  https://github.com/darren-adrian/tampermonkey/raw/main/GCWebMessenger.user.js
-// @updateURL  https://github.com/darren-adrian/tampermonkey/raw/main/GCWebMessenger.user.js
-// ==/UserScript==
+
 (function() {
 
     'use strict';
