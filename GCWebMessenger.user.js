@@ -1,4 +1,6 @@
-
+// ==UserScript==
+// @require      https://code.jquery.com/jquery-latest.js
+// ==/UserScript==
 (function() {
 
     'use strict';
