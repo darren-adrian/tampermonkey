@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GCWebMessenger
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Matt McPhee Demo Script
 // @author       matt.mcphee@genesys.com
 // @match        http*://*/*
