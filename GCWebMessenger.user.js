@@ -7,8 +7,9 @@
 // @match        http*://*/*
 // @grant        none
 // @require      https://code.jquery.com/jquery-latest.js
-// @downloadURL  https://darren-adrian.github.io/tampermonkey/GCWebMessenger.user.js?dl=1
-// @updateURL  https://darren-adrian.github.io/tampermonkey/GCWebMessenger.user.js
+//
+// @downloadURL  https://github.com/darren-adrian/tampermonkey/raw/main/GCWebMessenger.user.js
+// @updateURL  https://github.com/darren-adrian/tampermonkey/raw/main/GCWebMessenger.user.js
 // ==/UserScript==
 (function() {
 
