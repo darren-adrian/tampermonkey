@@ -64,9 +64,9 @@
             //-------------------------------------------------------USER SECTION------------------------------------------------------------------------------------------------
         if(document.domain === "www.csc.gov.auxxx"){
             try{
-                Genesys("command", "Database.set", { messaging: { customAttributes: { customerId: '456115', customerName: 'Marcella' }}});
+                Genesys("command", "Database.set", { messaging: { customAttributes: { customerId: '456115', customerName: 'Abigael' }}});
                 console.log("customerId: " + '456115');
-                console.log("customerName: " + 'Marcella');
+                console.log("customerName: " + 'Abigael');
             } catch(err){ console.error(err); }
         }
 
